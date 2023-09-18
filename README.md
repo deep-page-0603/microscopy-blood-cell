@@ -122,3 +122,7 @@ BX53 Biological Microscope (Gumiho)
   <img src="img/sam-3.jpg" width="640px" height="360px"/>
 </span>
 <div>
+
+# Training
+
+With Yolo v7, we achieved 98.78% averaged accuracy.
