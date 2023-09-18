@@ -20,34 +20,105 @@ Trained models will be published along with the report and dataset.
 
 BX53 Biological Microscope (Gumiho)
 
+<span>
+  <img src="img/microscope_1.png" width="150px" height="150px"/>
+  <img src="img/microscope_2.png" width="150px" height="150px"/>
+</span>
+
 # Data Structure
 
 ## Platelet
 - Detection Dataset (640x480)
-- Detection Dataset (detect_1920x1080)
+<div>
+<span>
+  <img src="img/platelet/000045.jpg" width="100px" height="100px"/>
+  <img src="img/platelet/000047.jpg" width="100px" height="100px"/>
+  <img src="img/platelet/000049.jpg" width="100px" height="100px"/>  
+</span>
+<div>
 
-## Platelet
-- Detection Dataset (640x480)
 - Detection Dataset (detect_1920x1080)
+<div>
+<span>
+  <img src="img/platelet/000059.jpg" width="100px" height="100px"/>
+  <img src="img/platelet/000061.jpg" width="100px" height="100px"/>
+  <img src="img/platelet/000063.jpg" width="100px" height="100px"/>
+</span>
+<div>
 
 ## Prostate
 - Detection Dataset (1920x1080)
+<div>
+<span>
+  <img src="img/prostate/000079.jpg" width="100px" height="100px"/>
+  <img src="img/prostate/000081.jpg" width="100px" height="100px"/>
+</span>
+<div>
+
 - Classification Dataset (Small Pieces)
+<div>
+<span>
+  <img src="img/prostate/000093.jpg" width="100px" height="100px"/>
+  <img src="img/prostate/000095.jpg" width="100px" height="100px"/>
+</span>
+<div>
 
 ## Red Cell
 - Detection Dataset (640x480)
+<div>
+<span>
+  <img src="img/redcell/000005.jpg" width="100px" height="100px"/>
+  <img src="img/redcell/000017.jpg" width="100px" height="100px"/>
+</span>
+<div>
+
 - Detection Dataset (detect_1920x1080)
+<div>
+<span>
+  <img src="img/redcell/000019.jpg" width="100px" height="100px"/>
+  <img src="img/redcell/000033.jpg" width="100px" height="100px"/>
+</span>
+<div>
 
 ## White Cell
 - Countint Dataset
   DataSet1 (1920x1080)
   DataSet2 (1920x1080)
   Binary Classification Dataset (Small Pieces)
+
+<div>
+<span>
+  <img src="img/whitecell/000033.jpg" width="100px" height="100px"/>
+  <img src="img/whitecell/000077.jpg" width="100px" height="100px"/>
+  <img src="img/whitecell/000079.jpg" width="100px" height="100px"/>
+</span>
+<div>
+
 - Percentage Dataset
   DataSet1 (1920x1080)
   DataSet2 (1920x1080)
   Classification Dataset (Small Pieces for 10 Classes)
 
+<div>
+<span>
+  <img src="img/whitecell/000081.jpg" width="160px" height="90px"/>
+  <img src="img/whitecell/000091.jpg" width="160px" height="90px"/>
+  <img src="img/whitecell/000093.jpg" width="160px" height="90px"/>
+</span>
+<div>
+
 # Labeling
 - Exact Positions for Detection Dataset
+<div>
+<span>
+  <img src="img/sam-1.jpg" width="640px" height="360px"/>
+  <img src="img/sam-2.jpg" width="640px" height="360px"/>
+</span>
+<div>
+
 - Exact Positions & Class Indice for Classification Dataset
+<div>
+<span>
+  <img src="img/sam-3.jpg" width="640px" height="360px"/>
+</span>
+<div>
